@@ -2,7 +2,7 @@
 
 PRODUCT='NAKIVO Backup & Replication'
 URL="http://10.10.16.185/truenas/10.8.0.74976.sh"
-SHA256="27f80c962faa043ac8e0f1c61dcc0816bb9364d6"
+SHA256="07d265d73eb8af2b561af3be3e9de592916cc3bc197a9e4e43e34dba8b2203cd"
 
 PRODUCT_ROOT="/usr/local/nakivo"
 INSTALL="inst.sh"
